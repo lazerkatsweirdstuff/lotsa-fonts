@@ -6,6 +6,8 @@ Actor
 Adamina
 Advent Pro
 Aguafina Script
+Akaya Kanadaka
+Akaya Telivigala
 Akronim
 Aladin
 Aldrich
@@ -22,6 +24,7 @@ Alike Angular
 Allan
 Allerta
 Allerta Stencil
+Allison
 Allura
 Almendra
 Almendra Display
@@ -32,12 +35,12 @@ Amatic SC
 Amatica SC
 Amethysta
 Amiko
-Amiri
 Amita
 Anaheim
 Andada
 Andada Pro
 Andika
+Andika New Basic
 Angkor
 Annie Use Your Telescope
 Anonymous Pro
@@ -45,6 +48,7 @@ Antic
 Antic Didone
 Antic Slab
 Anton
+Antonio
 Arapey
 Arbutus
 Arbutus Slab
@@ -52,16 +56,26 @@ Architects Daughter
 Archivo
 Archivo Black
 Archivo Narrow
+Aref Ruqaa
+Aref Ruqaa Ink
+Arima
+Arima Madurai
 Arimo
+Arizonia
 Armata
 Artifika
 Arvo
+Arya
 Asap
 Asap Condensed
+Asar
 Asset
 Assistant
 Astloch
 Asul
+Athiti
+Atkinson Hyperlegible
+Atma
 Atomic Age
 Aubrey
 Audiowide
@@ -76,8 +90,10 @@ B612
 B612 Mono
 Bad Script
 Bahiana
+Bahianita
 Bai Jamjuree
 Bakbak One
+Ballet
 Baloo
 Baloo 2
 Baloo Bhai
@@ -104,37 +120,63 @@ Barlow
 Barlow Condensed
 Barlow Semi Condensed
 Barriecito
+Barrio
 Basic
+Baskervville
+Battambang
 Baumans
 Bayon
 Be Vietnam
+Be Vietnam Pro
+Bebas Neue
 Belgrano
 Bellefair
 Belleza
+Bellota
+Bellota Text
 BenchNine
+Benne
 Bentham
 Berkshire Swash
+Besley
+Beth Ellen
 Bevan
 Big Shoulders Display
+Big Shoulders Inline Display
+Big Shoulders Inline Text
+Big Shoulders Stencil Display
+Big Shoulders Stencil Text
 Big Shoulders Text
+Bigelow Rules
 Bigshot One
 Bilbo
 Bilbo Swash Caps
 BioRhyme
 BioRhyme Expanded
+Birthstone
+Birthstone Bounce
 Biryani
 Bitter
 Black And White Picture
 Black Han Sans
 Black Ops One
+Blaka
+Blaka Hollow
+Blaka Ink
+Blaka Hos
+Blinker
 Bodoni Moda
 Bokor
+Bona Nova
 Bonbon
 Boogaloo
 Bowlby One
 Bowlby One SC
 Brawler
 Bree Serif
+Bruno Ace
+Bruno Ace SC
+Brygada 1918
 Bubblegum Sans
 Bubbler One
 Buda
@@ -144,6 +186,7 @@ Bungee Hairline
 Bungee Inline
 Bungee Outline
 Bungee Shade
+Bungee Spice
 Butcherman
 Butterfly Kids
 Cabin
@@ -152,7 +195,9 @@ Cabin Sketch
 Caesar Dressing
 Cagliostro
 Cairo
+Cairo Play
 Caladea
+Calistoga
 Calligraffitti
 Cambay
 Cambo
@@ -160,6 +205,7 @@ Candal
 Cantarell
 Cantata One
 Cantora One
+Caprasimo
 Capriola
 Cardo
 Carme
@@ -167,6 +213,7 @@ Carrois Gothic
 Carrois Gothic SC
 Carter One
 Castoro
+Castoro Titling
 Catamaran
 Caudex
 Caveat
@@ -178,15 +225,21 @@ Changa
 Changa One
 Chango
 Charis SIL
+Charm
+Charmonman
+Chathura
 Chau Philomene One
 Chela One
 Chelsea Market
 Chenla
+Cherish
 Cherry Cream Soda
 Cherry Swash
 Chewy
 Chicle
+Chilanka
 Chivo
+Chivo Mono
 Chonburi
 Cinzel
 Cinzel Decorative
@@ -197,8 +250,12 @@ Codystar
 Coiny
 Combo
 Comfortaa
+Comforter
+Comforter Brush
 Comic Neue
 Coming Soon
+Comme
+Commissioner
 Concert One
 Condiment
 Content
@@ -207,6 +264,7 @@ Convergence
 Cookie
 Copse
 Corben
+Corinthia
 Cormorant
 Cormorant Garamond
 Cormorant Infant
@@ -214,6 +272,7 @@ Cormorant SC
 Cormorant Unicase
 Cormorant Upright
 Courgette
+Courier Prime
 Cousine
 Coustard
 Covered By Your Grace
@@ -227,13 +286,20 @@ Crushed
 Cuprum
 Cutive
 Cutive Mono
+DM Mono
+DM Sans
+DM Serif Display
+DM Serif Text
 Damion
 Dancing Script
 Dangrek
+Darker Grotesque
 David Libre
 Dawning of a New Day
 Days One
 Dekko
+Dela Gothic One
+Delicious Handrawn
 Delius
 Delius Swash Caps
 Delius Unicase
@@ -251,11 +317,13 @@ Donegal One
 Doppio One
 Dorsa
 Dosis
+DotGothic16
 Dr Sugiyama
 Droid Sans
 Droid Sans Mono
 Droid Serif
 Duru Sans
+DynaPuff
 Dynalight
 Eagle Lake
 East Sea Dokdo
@@ -263,6 +331,11 @@ Eater
 EB Garamond
 Economica
 Eczar
+Edu NSW ACT Foundation
+Edu QLD Beginner
+Edu SA Beginner
+Edu TAS Beginner
+Edu VIC WA NT Beginner
 El Messiri
 Electrolize
 Elsie
@@ -272,18 +345,24 @@ Emilys Candy
 Encode Sans
 Encode Sans Condensed
 Encode Sans Expanded
+Encode Sans SC
 Encode Sans Semi Condensed
 Encode Sans Semi Expanded
 Engagement
 Englebert
 Enriqueta
+Ephesis
+Epilogue
 Erica One
 Esteban
+Estonia
 Euphoria Script
 Ewert
 Exo
 Exo 2
 Expletus Sans
+Explora
+Fahkwang
 Fanwood Text
 Farro
 Farsan
@@ -297,7 +376,10 @@ Federant
 Federo
 Felipa
 Fenix
+Festive
+Figtree
 Finger Paint
+Fira Code
 Fira Mono
 Fira Sans
 Fira Sans Condensed
@@ -306,26 +388,40 @@ Fjalla One
 Fjord One
 Flamenco
 Flavors
+Fleur De Leah
+Flow Block
+Flow Circular
+Flow Rounded
 Fondamento
 Fontdiner Swanky
 Forum
+Fragment Mono
 Francois One
 Frank Ruhl Libre
+Fraunces
 Freckle Face
 Fredericka the Great
+Fredoka
 Fredoka One
 Freehand
 Fresca
 Frijole
 Fruktur
 Fugaz One
+Fuggles
+Fuzzy Bubbles
+GFS Didot
+GFS Neohellenic
 Gabarito
+Gabriela
+Gaegu
 Gafata
 Galada
 Galdeano
 Galindo
 Gamja Flower
 Gantari
+Gasoek One
 Gayathri
 Gelasio
 Gemunu Libre
@@ -340,9 +436,6 @@ Geostar
 Geostar Fill
 Germania One
 Get Schwifty
-GFS Didot
-GFS Neohellenic
-Gidugu
 Gideon Roman
 Gidole
 Gilda Display
@@ -350,10 +443,14 @@ Girassol
 Give You Glory
 Glass Antiqua
 Glegoo
+Gloock
 Gloria Hallelujah
+Glory
+Gluten
 Gochi Hand
 Goldman
 Goldman Sans
+Golos Text
 Gorditas
 Gothic A1
 Gotu
@@ -363,6 +460,7 @@ Gowun Dodum
 Graduate
 Grand Hotel
 Grandstander
+Grape Nuts
 Gravitas One
 Great Vibes
 Grechen Fuemen
@@ -374,6 +472,7 @@ Gruppo
 Gudea
 Gugi
 Gulzar
+Gupter
 Gurajada
 Gwendolyn
 Habibi
@@ -418,19 +517,10 @@ IBM Plex Sans Hebrew
 IBM Plex Sans JP
 IBM Plex Sans KR
 IBM Plex Sans Thai
+IBM Plex Sans Thai Looped
 IBM Plex Serif
 Iceberg
 Iceland
-IM Fell Double Pica
-IM Fell Double Pica SC
-IM Fell DW Pica
-IM Fell DW Pica SC
-IM Fell English
-IM Fell English SC
-IM Fell French Canon
-IM Fell French Canon SC
-IM Fell Great Primer
-IM Fell Great Primer SC
 Imbue
 Imperial Script
 Imprima
@@ -447,6 +537,7 @@ Instrument Sans
 Instrument Serif
 Inter
 Inter Tight
+Interpol
 Irish Grover
 Island Moments
 Istok Web
@@ -474,6 +565,10 @@ Just Another Hand
 Just Me Again Down Here
 K2D
 Kadwa
+Kaisei Decol
+Kaisei HarunoUmi
+Kaisei Opti
+Kaisei Tokumin
 Kalam
 Kameron
 Kanit
@@ -493,6 +588,7 @@ Kenia
 Khand
 Khmer
 Khula
+Kings
 Kirang Haerang
 Kite One
 Kiwi Maru
@@ -531,6 +627,7 @@ Lancelot
 Langar
 Lateef
 Lato
+Lavishly Yours
 League Gothic
 League Mono
 League Script
@@ -583,9 +680,18 @@ Love Ya Like A Sister
 Loved by the King
 Lovers Quarrel
 Luckiest Guy
+Lugrasimo
 Lusitana
 Lustria
 Luxurious Roman
+Luxurious Script
+M PLUS 1
+M PLUS 1 Code
+M PLUS 1p
+M PLUS 2
+M PLUS Code Latin
+M PLUS Rounded 1c
+Ma Shan Zheng
 Macondo
 Macondo Swash Caps
 Mada
@@ -684,11 +790,13 @@ Mulish
 Murecho
 MuseoModerno
 Mystery Quest
+NT Rastic
 Nanum Brush Script
 Nanum Gothic
 Nanum Gothic Coding
 Nanum Myeongjo
 Nanum Pen Script
+Narnoor
 Neonderthaw
 Nerko One
 Neucha
@@ -756,6 +864,7 @@ Noto Sans Grantha
 Noto Sans Gujarati
 Noto Sans Gunjala Gondi
 Noto Sans Gurmukhi
+Noto Sans HK
 Noto Sans Hanifi Rohingya
 Noto Sans Hanunoo
 Noto Sans Hatran
@@ -764,7 +873,9 @@ Noto Sans Imperial Aramaic
 Noto Sans Indic Siyaq Numbers
 Noto Sans Inscriptional Pahlavi
 Noto Sans Inscriptional Parthian
+Noto Sans JP
 Noto Sans Javanese
+Noto Sans KR
 Noto Sans Kaithi
 Noto Sans Kannada
 Noto Sans Kayah Li
@@ -827,6 +938,7 @@ Noto Sans Phoenician
 Noto Sans Psalter Pahlavi
 Noto Sans Rejang
 Noto Sans Runic
+Noto Sans SC
 Noto Sans Samaritan
 Noto Sans Saurashtra
 Noto Sans Sharada
@@ -841,9 +953,7 @@ Noto Sans Sundanese
 Noto Sans Syloti Nagri
 Noto Sans Symbols
 Noto Sans Symbols 2
-Noto Sans Syriac
-Noto Sans Syriac Eastern
-Noto Sans Syriac Western
+Noto Sans TC
 Noto Sans Tagalog
 Noto Sans Tagbanwa
 Noto Sans Tai Le
@@ -881,16 +991,20 @@ Noto Serif Gujarati
 Noto Serif Gurmukhi
 Noto Serif Hebrew
 Noto Serif Hmong Nyiakeng
+Noto Serif JP
 Noto Serif Kannada
 Noto Serif Khmer
 Noto Serif Khojki
+Noto Serif KR
 Noto Serif Lao
 Noto Serif Makasar
 Noto Serif Malayalam
 Noto Serif Myanmar
 Noto Serif Nyiakeng Puachue
 Noto Serif Oriya
+Noto Serif SC
 Noto Serif Sinhala
+Noto Serif TC
 Noto Serif Tamil
 Noto Serif Tangut
 Noto Serif Telugu
@@ -938,11 +1052,16 @@ Overlock
 Overlock SC
 Overpass
 Overpass Mono
-OvertheRainbow
 Ovo
 Oxanium
 Oxygen
 Oxygen Mono
+PT Mono
+PT Sans
+PT Sans Caption
+PT Sans Narrow
+PT Serif
+PT Serif Caption
 Pacifico
 Padauk
 Padyakke Expanded One
@@ -1071,12 +1190,6 @@ Protest Riot
 Protest Revolution
 Protest Strike
 Proza Libre
-PT Mono
-PT Sans
-PT Sans Caption
-PT Sans Narrow
-PT Serif
-PT Serif Caption
 Public Sans
 Puppies Play
 Puritan
@@ -1235,6 +1348,7 @@ Share
 Share Tech
 Share Tech Mono
 Shippori Antique
+Shippori Antique B1
 Shippori Mincho
 Shippori Mincho B1
 Shizuru
@@ -1328,6 +1442,8 @@ Syne
 Syne Mono
 Syne Tactile
 Tac One
+Tagesschrift
+Tai Heritage Pro
 Tajawal
 Tangerine
 Tapestry
@@ -1379,6 +1495,7 @@ Ubuntu Sans
 Ubuntu Sans Mono
 Uchen
 Ultra
+Unbounded
 Uncial Antiqua
 Underdog
 Unica One
