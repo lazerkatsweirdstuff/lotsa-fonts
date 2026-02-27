@@ -1,121 +1,3 @@
-Alegreya
-Alice
-Amaranth
-Andada Pro
-Antic Didone
-Arapey
-Arvo
-Asap
-Belleza
-Bitter
-Bodoni Moda
-Brawler
-Bree Serif
-Cabin
-Caladea
-Cambo
-Cantata One
-Cardo
-Carme
-Castoro
-Caudex
-Chakra Petch
-Charis SIL
-Cherry Cream Soda
-Cinzel
-Cormorant (Garamond, Infant, SC, Unicase)
-Cousine
-Crimson Pro
-Crimson Text
-Cutive
-Droid Serif
-EB Garamond
-Eczar
-Fenix
-Fjord One
-Frank Ruhl Libre
-Gentium Book Basic
-Gentium Plus
-Gilda Display
-Glegoo
-Goudy Bookletter 1911
-Halant
-Hammersmith One
-Hepta Slab
-Holtwood One SC
-IM Fell (Double Pica, DW Pica, English, French Canon, Great Primer, etc.)
-Inika
-Inknut Antiqua
-Josefin Slab
-Junge
-Kameron
-Karma
-Kotta One
-Kreon
-Laila
-Lato
-Libre Baskerville
-Libre Caslon Text
-Linden Hill
-Literata
-Lora
-Marcellus
-Marcellus SC
-Markazi Text
-Mate
-Mate SC
-Merriweather
-Montaga
-Neuton
-Niconne
-Nokora
-Noto Serif
-Old Standard TT
-Oranienbaum
-Ovo
-Peddana
-Petrona
-Playfair Display
-Playfair Display SC
-Podkova
-Poly
-Pontano Sans
-Prata
-Prociono
-PT Serif
-Quattrocento
-Ramaraja
-Roboto Slab
-Rosarivo
-Rufina
-Ruthie
-Sansita
-Sansita One
-Sedan
-Sedan SC
-Semi
-Sonsie One
-Sorts Mill Goudy
-Source Serif Pro
-Special Elite
-Stalemate
-Sura
-Suranna
-Suravaram
-Tangerine
-Taviraj
-Tienne
-Tillana
-Timmana
-Trirong
-Trykker
-Ultra
-Unna
-Vesper Libre
-Vidaloka
-Vollkorn
-Yeseva One
-Zeyada
 Abel
 Abhaya Libre
 Abril Fatface
@@ -128,6 +10,7 @@ Akronim
 Aladin
 Aldrich
 Alef
+Alegreya
 Alegreya Sans
 Alegreya Sans SC
 Aleo
@@ -153,6 +36,7 @@ Amiri
 Amita
 Anaheim
 Andada
+Andada Pro
 Andika
 Angkor
 Annie Use Your Telescope
@@ -243,6 +127,7 @@ Bitter
 Black And White Picture
 Black Han Sans
 Black Ops One
+Bodoni Moda
 Bokor
 Bonbon
 Boogaloo
@@ -267,6 +152,7 @@ Cabin Sketch
 Caesar Dressing
 Cagliostro
 Cairo
+Caladea
 Calligraffitti
 Cambay
 Cambo
@@ -280,6 +166,7 @@ Carme
 Carrois Gothic
 Carrois Gothic SC
 Carter One
+Castoro
 Catamaran
 Caudex
 Caveat
@@ -290,6 +177,7 @@ Chakra Petch
 Changa
 Changa One
 Chango
+Charis SIL
 Chau Philomene One
 Chela One
 Chelsea Market
@@ -396,7 +284,6 @@ Ewert
 Exo
 Exo 2
 Expletus Sans
-Fanwood Text
 Fanwood Text
 Farro
 Farsan
@@ -570,7 +457,6 @@ Jacques Francois
 Jacques Francois Shadow
 Jaldi
 Jalnan
-Jaldi
 Jameel Noori Nastaleeq
 Jomhuria
 Jomolhari
@@ -1036,7 +922,6 @@ Oldenburg
 Ole
 Oleo Script
 Oleo Script Swash Caps
-Oleo Script Swash Caps
 Onest
 Oooh Baby
 Open Sans
@@ -1048,24 +933,16 @@ Orelega One
 Orienta
 Original Surfer
 Oswald
-Oswald
 Outfit
 Overlock
 Overlock SC
 Overpass
-Overpass Mono
 Overpass Mono
 OvertheRainbow
 Ovo
 Oxanium
 Oxygen
 Oxygen Mono
-PT Mono
-PT Sans
-PT Sans Caption
-PT Sans Narrow
-PT Serif
-PT Serif Caption
 Pacifico
 Padauk
 Padyakke Expanded One
@@ -1194,6 +1071,12 @@ Protest Riot
 Protest Revolution
 Protest Strike
 Proza Libre
+PT Mono
+PT Sans
+PT Sans Caption
+PT Sans Narrow
+PT Serif
+PT Serif Caption
 Public Sans
 Puppies Play
 Puritan
@@ -1222,7 +1105,6 @@ Rammetto One
 Rampart One
 Ranchers
 Rancho
-Ranga
 Ranga
 Rany
 Rasa
@@ -1318,6 +1200,7 @@ Sanchez
 Sancreek
 Sansation
 Sansita
+Sansita One
 Sansita Swashed
 Sarabun
 Sarala
@@ -1338,6 +1221,7 @@ Sedan
 Sedan SC
 Sedgwick Ave
 Sedgwick Ave Display
+Semi
 Sen
 Send Flowers
 Sevillana
@@ -1505,7 +1389,6 @@ Unlock
 Unna
 Updock
 Urbanist
-VT323
 Vampiro One
 Varela
 Varela Round
@@ -1525,6 +1408,7 @@ Volkhov
 Vollkorn
 Vollkorn SC
 Voltaire
+VT323
 Vujahday Script
 Waiting for the Sunrise
 Wallpoet
